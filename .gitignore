@@ -151,7 +151,7 @@ dist/
 # SSH keys
 *.pem
 *.key
-
+*.pub
 # OS files
 .DS_Store
 Thumbs.db
