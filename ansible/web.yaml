@@ -5,7 +5,7 @@
 
   vars:
     app_dir: /home/ubuntu/TravelMemory
-    public_ip: "13.207.194.61"   # ✅ UPDATE THIS
+    public_ip: "13.207.194.61"   #  UPDATE THIS
 
   tasks:
 
